@@ -1,0 +1,19 @@
+# C related
+*.a
+*.app
+*.d
+*.dll
+*.elf
+*.exe
+*.exp
+*.ilk
+*.lib
+*.o
+*.obj
+*.out
+*.pdb
+*.so
+
+# IDE
+.vs/
+.vscode/

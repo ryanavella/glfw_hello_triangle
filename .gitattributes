@@ -1,0 +1,6 @@
+* text=auto
+
+*.c            text eol=lf linguist-language=C
+*.h            text eol=lf linguist-language=C
+.gitattributes text eol=lf
+.gitignore     text eol=lf
